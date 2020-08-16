@@ -28,7 +28,7 @@
  - Pet Projects 
      - [Kabard](https://github.com/kabard) :point_right: streamlining tools to support ioT traffic. From device management to processing the traffic from device and building analytics.
   
-##  My 20-20 guideline
+##  My 20-20 OKR
  - :heavy_multiplication_x::heavy_multiplication_x::heavy_multiplication_x: Less focus on Pet project. 
  - :book: Read Books 
  - watch lot of anime!
