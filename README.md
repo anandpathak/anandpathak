@@ -14,8 +14,9 @@
 ## What's in my plate? 
 
  - Books I want to complete
-     - Refactoring 
-     - Designing Data Intensive Application - Martin Kleppmann
+     - Refactoring  :heavy_check_mark:
+     - Practical object oriented design in Ruby -- :heavy_check_mark:
+     - Designing Data Intensive Application - Martin Kleppmann 
      - Release it - Michael T. Nygard
      - Exteeem programming - kent beck
      - [here's completed book list](https://www.goodreads.com/user/show/94870847-anand-pathak)
